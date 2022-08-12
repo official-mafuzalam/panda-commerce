@@ -1,7 +1,7 @@
 .container{
     margin-bottom: 60px;
 }
-.carousel-item{
+.orange-bg{
     background-color: #feeae9;
     border-radius: 10px;
     padding: 20px 120px;
@@ -9,7 +9,7 @@
 .price{
     color: coral;
 }
-.but-now-button{
+.buy-now-button{
     background-image: linear-gradient(to bottom, #ff585b 0%, #ff136f 100%);
     color: white;
     border: none;
@@ -35,4 +35,18 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
